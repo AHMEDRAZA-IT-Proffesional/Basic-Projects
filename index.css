@@ -1,0 +1,22 @@
+
+#main{
+    background-color: rosybrown;
+    text-align: center;
+    font-family: 'Arial Narrow Bold', sans-serif;
+}
+body{
+    background-image:url("https://www.shutterstock.com/shutterstock/photos/2472431801/display_1500/stock-photo-time-running-out-woman-with-dissolving-alarm-clock-on-blue-background-closeup-2472431801.jpg") ;
+    
+}
+#middle input{
+    margin-top: 40px;
+    padding-top: 10px;
+    font-size: 50px;
+    text-align: center;
+    margin:0 auto;
+}
+button{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    background-color: lightcoral;
+}
